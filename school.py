@@ -69,7 +69,7 @@ students = []
 
 
 
-# Menu function
+# functions
 
 def menu():
     while True:
